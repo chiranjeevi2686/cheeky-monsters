@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cheeky-monsters/static/css/main.b91277fc.chunk.css",
+    "main.js": "/cheeky-monsters/static/js/main.706c4511.chunk.js",
+    "main.js.map": "/cheeky-monsters/static/js/main.706c4511.chunk.js.map",
+    "runtime-main.js": "/cheeky-monsters/static/js/runtime-main.d86ee901.js",
+    "runtime-main.js.map": "/cheeky-monsters/static/js/runtime-main.d86ee901.js.map",
+    "static/js/2.eb46bd24.chunk.js": "/cheeky-monsters/static/js/2.eb46bd24.chunk.js",
+    "static/js/2.eb46bd24.chunk.js.map": "/cheeky-monsters/static/js/2.eb46bd24.chunk.js.map",
+    "index.html": "/cheeky-monsters/index.html",
+    "precache-manifest.0f4732d8abf2cd2b35a58382d7e53f73.js": "/cheeky-monsters/precache-manifest.0f4732d8abf2cd2b35a58382d7e53f73.js",
+    "service-worker.js": "/cheeky-monsters/service-worker.js",
+    "static/css/main.b91277fc.chunk.css.map": "/cheeky-monsters/static/css/main.b91277fc.chunk.css.map",
+    "static/js/2.eb46bd24.chunk.js.LICENSE.txt": "/cheeky-monsters/static/js/2.eb46bd24.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d86ee901.js",
+    "static/js/2.eb46bd24.chunk.js",
+    "static/css/main.b91277fc.chunk.css",
+    "static/js/main.706c4511.chunk.js"
+  ]
+}
