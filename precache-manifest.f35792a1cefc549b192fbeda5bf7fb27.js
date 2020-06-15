@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c604df1fa95d38a6abfb20b75a160378",
+    "revision": "caad966f81b6adb8105860dd047b3432",
     "url": "/cheeky-monsters/index.html"
   },
   {
-    "revision": "5bd11d89030daa0fcb2c",
-    "url": "/cheeky-monsters/static/css/main.b91277fc.chunk.css"
+    "revision": "552f4ee13ed49c588823",
+    "url": "/cheeky-monsters/static/css/main.94279edf.chunk.css"
   },
   {
     "revision": "bc1bab706fd378f60c77",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cheeky-monsters/static/js/2.eb46bd24.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5bd11d89030daa0fcb2c",
+    "revision": "552f4ee13ed49c588823",
     "url": "/cheeky-monsters/static/js/main.706c4511.chunk.js"
   },
   {
